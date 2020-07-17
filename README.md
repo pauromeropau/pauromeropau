@@ -1,7 +1,7 @@
 <h2> Hi, I'm Paula Romero! </h2>
 
 <p>
-<img  src="https://github-readme-stats.vercel.app/api?username=pauromeropau&show_icons=true&hide_border=true" width="600">
+<img  src="https://github-readme-stats.vercel.app/api?username=pauromeropau&show_icons=true&hide_border=true" width="400">
 <img  src="https://media.giphy.com/media/L8K62iTDkzGX6/source.gif" width="300">
 </p>
 
