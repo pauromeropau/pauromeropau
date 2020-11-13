@@ -8,17 +8,6 @@
 [![Linkedin: pauromeropau](https://img.shields.io/badge/-pauromeropau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pauromeropau/)](https://www.linkedin.com/in/pauromeropau/)
 [![GitHub Pauromeropau](https://img.shields.io/github/followers/pauromeropau?label=follow&style=social)](https://github.com/pauromeropau)
 
-### A little more about me...
-
-```javascript
-const paula = {
-	pronouns: 'she' | 'her',
-	code: [Javascript, HTML, CSS, C++, Maple],
-	tools: [React, Redux, Node, Jest, Docker, React Native, Flutter], 
-        database: [MySQL, SQL Server, MongoDB],
-};
-```
-
 ---
 
 ⭐️ From [@pauromeropau](https://github.com/pauromeropau)
