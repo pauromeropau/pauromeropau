@@ -1,10 +1,9 @@
 <h2> Hi, I'm Paula Romero! </h2>
 
-<p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauromeropau&theme=light&hide_langs_below=1"  height="150">
+<img  src="https://github-readme-stats.vercel.app/api?username=pauromeropau&show_icons=true&hide_border=true">
 
-<img  src="https://github-readme-stats.vercel.app/api?username=pauromeropau&show_icons=true&hide_border=true" width="350">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauromeropau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Linkedin: pauromeropau](https://img.shields.io/badge/-pauromeropau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pauromeropau/)](https://www.linkedin.com/in/pauromeropau/)
 
