@@ -1,7 +1,5 @@
 <h2> Hi, I'm Paula Romero! </h2>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=pauromeropau&show_icons=true&hide_border=true">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauromeropau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
